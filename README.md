@@ -11,4 +11,7 @@ Period legend
 - f2 = Forecast 2
 - rb = Revised Budget
 
-More to come...
+1. Download the repo
+2. open run_shiny_app.R
+3. set the working directory as the directory where run_shiny_app.R is located in your computer
+4. run the script to launch the app
